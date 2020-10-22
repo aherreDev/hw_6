@@ -1,5 +1,3 @@
-import Handler from './models/Handler.js'
-import Product from './models/Product.js'
 import Inventory from './models/Inventory.js'
 
 window.onload = () =>{
